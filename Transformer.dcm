@@ -210,6 +210,12 @@ K Mini-Circuits RF Transformer
 F https://ww2.minicircuits.com/pdfs/ADTT4-1+.pdf
 $ENDCMP
 #
+$CMP ETC1-1-13
+D 4.5-3000MHz 1:1 RF Transformer, Macom
+K Macom RF Transformer
+F https://cdn.macom.com/datasheets/ETC1-1-13.pdf
+$ENDCMP
+#
 $CMP LL1587
 D Lundahl Transformers, Microphone Transformer
 K microphone transformer
